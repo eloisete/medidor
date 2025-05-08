@@ -9,7 +9,6 @@ import com.cebem.medidor.models.RickandmortyCharacter;
 import com.cebem.medidor.services.RickandmortyService;
 
 import lombok.RequiredArgsConstructor;
-
 @Controller
 @RequiredArgsConstructor
 public class RickAndMortyController {
